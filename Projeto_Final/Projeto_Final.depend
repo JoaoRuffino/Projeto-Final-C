@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1701806728 source:c:\users\joão ruffino\documents\projeto_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib.h"
+
+1701806705 c:\users\joão ruffino\documents\projeto_final\lib.h
+
+1701806705 source:c:\users\joão ruffino\documents\projeto_final\lib.c
+	<stdio.h>
+	<stdlib.h>
+	"Lib.h"
+
